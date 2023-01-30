@@ -1,0 +1,23 @@
+{
+  "name": "relocate-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server index.html -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHALFY007/relocate-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHALFY007/relocate-site/issues"
+  },
+  "homepage": "https://github.com/SHALFY007/relocate-site#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
